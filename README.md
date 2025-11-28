@@ -53,6 +53,9 @@ Facilitar el *análisis preliminar* de grandes volúmenes de documentación hist
 ## 🚀 Instalación
 
 1. **Descargar** o clonar este repositorio.
+     Para descargarlo, anda al boton "Code" y apretá "Descargar ZIP"
+   <img width="456" height="384" alt="image" src="https://github.com/user-attachments/assets/8bb25729-5116-4010-ae41-31be65af0bb7" />
+
 
 3. **Ejecutar** `Buscador de palabras OCR.bat` (Interfaz gráfica de usuario)
 
