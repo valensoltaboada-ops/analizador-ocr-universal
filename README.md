@@ -10,16 +10,16 @@ Esta aplicación permite realizar **análisis preliminares y orientativos** de d
      Para descargarlo, anda al boton "Code" y apretá "Descargar ZIP"
    <img width="456" height="384" alt="image" src="https://github.com/user-attachments/assets/8bb25729-5116-4010-ae41-31be65af0bb7" />
 
-2. **Ejecutar** `Buscador de palabras OCR.bat` (Interfaz gráfica de usuario)
+2. **Ejecutar** `Buscador de palabras OCR.bat`
 
 3. **Instalar Phyton** a través de la página oficial desplegada automáticamente
    <img width="1618" height="585" alt="image" src="https://github.com/user-attachments/assets/d46232ec-8d05-4834-98f1-20063f8bcf46" />
 
-4. **Aceptar** la instalación de las herramientas secundarias (Plopper, Tessdata, OCR, etc)
+5. **Aceptar** la instalación de las herramientas secundarias (Plopper, Tessdata, OCR, etc)
 
-5. **Reiniciar** `Buscador de palabras OCR.bat`
+6. **Reiniciar** `Buscador de palabras OCR.bat`
 
-6. **¡Listo!** El sistema está listo para usarse.
+7. **¡Listo!** El sistema está listo para usarse.
 
 
 ## 📚 Guía de Uso
