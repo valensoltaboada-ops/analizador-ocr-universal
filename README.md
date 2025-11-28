@@ -3,6 +3,59 @@
 ## 📋 Descripción
 Esta aplicación permite realizar **análisis preliminares y orientativos** de documentación histórica mediante tecnología OCR (Reconocimiento Óptico de Caracteres), proporcionando una **orientación primaria** para el abordaje sistemático y análisis académico de fuentes documentales.
 
+
+## 🚀 Instalación
+
+1. **Descargar** o clonar este repositorio.
+     Para descargarlo, anda al boton "Code" y apretá "Descargar ZIP"
+   <img width="456" height="384" alt="image" src="https://github.com/user-attachments/assets/8bb25729-5116-4010-ae41-31be65af0bb7" />
+
+2. **Ejecutar** `Buscador de palabras OCR.bat` (Interfaz gráfica de usuario)
+
+3. **Instalar Phyton** a través de la página oficial desplegada automáticamente
+   <img width="1618" height="585" alt="image" src="https://github.com/user-attachments/assets/d46232ec-8d05-4834-98f1-20063f8bcf46" />
+
+4.**Aceptar** la instalación de las herramientas secundarias (Plopper, Tessdata, OCR, etc)
+
+5. **Reiniciar** `Buscador de palabras OCR.bat`
+   
+6. **¡Listo!** El sistema está listo para usarse.
+
+
+## 📚 Guía de Uso
+
+1. **Seleccionar la carpeta** donde queres alojar los resultados.
+
+2. **Cargar PDFs**: Selecciona uno o múltiples archivos PDF.
+
+   ☝ **Nota**: Los documentos PDF a analizar son proporcionados por el usuario y pueden ubicarse en cualquier carpeta del sistema operativo.
+ 
+3. **Vista previa**: Revisa los documentos cargados antes del análisis
+
+4. **Configuración de Búsqueda**: Define términos específicos a buscar. Podes escribirlos manualmente o usar alguna de las plantillas con vocabularios predefinidos por área de estudio.
+
+   📝Algunas de las plantillas proporcionadas:
+      - 🏛️ **Educativa**: Términos relacionados con educación.
+      - ⚡ **Alumbrado**: Infraestructura y servicios públicos de alumbrado.
+      - 🏥 **Salud**: Vocabulario médico y sanitario.
+      - 🏢 **Empresarial**: Términos comerciales y administrativos
+
+    🎯 Recomendaciones para la configuración de Palabras Clave
+      - **Use sinónimos** y variantes de términos importantes.
+      - **Incluya plural y singular** de sustantivos relevantes.
+      - **Considere variaciones históricas** del vocabulario.
+      - **Pruebe con subcorpus** antes del análisis completo.
+
+5. **Procesamiento**: Inicia el proceso de extracción de información y dejá que el sistema haga todo el trabajo.
+
+6. **Resultados**: accedé al reporte detallado proporcionado en archivos individuales de Excel y formato texto (.txt
+   📊 **Formato de los archivos Excel**:
+   - **Resumen Ejecutivo** - Estadísticas de frecuencia y distribución de las palabras clave.
+   - **Menciones Detalladas** - Lista completa de coincidencias encontradas.
+   - **Metadatos** - Información relevante del documento del documento (fecha, páginas, etc.)
+   - **Contexto Textual** - Fragmentos relevantes con contexto textual antes y después de la mención de la palabra clave.
+   
+
 ## 🎯 Objetivo Principal
 
 Facilitar el *análisis preliminar* de grandes volúmenes de documentación histórica para:
@@ -48,52 +101,6 @@ Facilitar el *análisis preliminar* de grandes volúmenes de documentación hist
 ├── 📁 resultados_ocr/                    ← Carpeta de resultados
 
 └── 📄 README.md                          ← Esta documentación
-
-
-## 🚀 Instalación
-
-1. **Descargar** o clonar este repositorio.
-     Para descargarlo, anda al boton "Code" y apretá "Descargar ZIP"
-   <img width="456" height="384" alt="image" src="https://github.com/user-attachments/assets/8bb25729-5116-4010-ae41-31be65af0bb7" />
-
-
-3. **Ejecutar** `Buscador de palabras OCR.bat` (Interfaz gráfica de usuario)
-
-4. **¡Listo!** El sistema se configura automáticamente.
- 
-
-## 📚 Guía de Uso
-
-1. **Seleccionar la carpeta** donde queres alojar los resultados.
-
-2. **Cargar PDFs**: Selecciona uno o múltiples archivos PDF.
-
-   ☝ **Nota**: Los documentos PDF a analizar son proporcionados por el usuario y pueden ubicarse en cualquier carpeta del sistema operativo.
- 
-3. **Vista previa**: Revisa los documentos cargados antes del análisis
-
-4. **Configuración de Búsqueda**: Define términos específicos a buscar. Podes escribirlos manualmente o usar alguna de las plantillas con vocabularios predefinidos por área de estudio.
-
-   📝Algunas de las plantillas proporcionadas:
-      - 🏛️ **Educativa**: Términos relacionados con educación.
-      - ⚡ **Alumbrado**: Infraestructura y servicios públicos de alumbrado.
-      - 🏥 **Salud**: Vocabulario médico y sanitario.
-      - 🏢 **Empresarial**: Términos comerciales y administrativos
-
-    🎯 Recomendaciones para la configuración de Palabras Clave
-      - **Use sinónimos** y variantes de términos importantes.
-      - **Incluya plural y singular** de sustantivos relevantes.
-      - **Considere variaciones históricas** del vocabulario.
-      - **Pruebe con subcorpus** antes del análisis completo.
-
-5. **Procesamiento**: Inicia el proceso de extracción de información y dejá que el sistema haga todo el trabajo.
-
-6. **Resultados**: accedé al reporte detallado proporcionado en archivos individuales de Excel y formato texto (.txt
-   📊 **Formato de los archivos Excel**:
-   - **Resumen Ejecutivo** - Estadísticas de frecuencia y distribución de las palabras clave.
-   - **Menciones Detalladas** - Lista completa de coincidencias encontradas.
-   - **Metadatos** - Información relevante del documento del documento (fecha, páginas, etc.)
-   - **Contexto Textual** - Fragmentos relevantes con contexto textual antes y después de la mención de la palabra clave.
 
 
 ## 🤝 Contribuciones
